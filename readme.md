@@ -18,7 +18,7 @@ $Data = &".\WordNetParser.ps1"
 ```
 
 # Dictionary
-Also provided is a pre-generated sql export of the dictionary database. You can skip utilizing the scripts by importing this sql file into your database server. Note that this information is subject to Princeton's license.
+Also provided is a pre-generated sql export of the dictionary database. You can skip utilizing the scripts by importing this sql file into your database server. Note that this information is subject to [Princeton's license](https://raw.githubusercontent.com/zincarla/WordNetParser/master/databasefile/LICENSE).
 
 ## Database structure
 ### Words
